@@ -1,4 +1,4 @@
-## Due to linited storage i have uploaded the model file into the google drive and pasted below:
+## Due to limited storage I have uploaded the model file into the google drive and pasted below:
 
 https://drive.google.com/drive/folders/1pT4hZ736b5UMR-zuJ0k5DasuiMZ-vS4O?usp=sharing
 
@@ -7,6 +7,7 @@ https://drive.google.com/drive/folders/1pT4hZ736b5UMR-zuJ0k5DasuiMZ-vS4O?usp=sha
 │── app.py  
 │── chest_xray_model.pth  
 │── tumor_classification_resnet18.pth  
+│── requirements.txt
 │  
 ├── static/  
 │   ├── script.js  
