@@ -7,12 +7,10 @@ https://drive.google.com/drive/folders/1pT4hZ736b5UMR-zuJ0k5DasuiMZ-vS4O?usp=sha
 │── app.py  
 │── chest_xray_model.pth  
 │── tumor_classification_resnet18.pth  
-│── requirements.txt
-│  
+│── requirements.txt  
 ├── static/  
 │   ├── script.js  
-│   ├── styles.css  
-│  
+│   ├── styles.css    
 ├── templates/  
 │   ├── index.html  
 
